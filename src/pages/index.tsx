@@ -51,7 +51,7 @@ export default function Home() {
 
         <h2>Add New Bookmark</h2>
         <label>
-            Enter Bookmark Tite: <br />
+            Enter Bookmark Title: <br />
             <input type="text" ref={node => titleField = node} />
         </label>
 
